@@ -1,3 +1,9 @@
+# txt形式
+*コピペをしたい場合はtxt形式の方が適しているので, 下記にリンクを添付します
+
+[1人目](https://github.com/naoki0130/open_repository/blob/master/cram/passing_experience1.txt)
+[2人目](https://github.com/naoki0130/open_repository/blob/master/cram/passing_experience2.txt)
+
 # 合格体験記 武田塾大森校
 
 <details>
