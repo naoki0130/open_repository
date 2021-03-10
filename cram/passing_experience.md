@@ -5,6 +5,7 @@
 - [2人目](https://github.com/naoki0130/open_repository/blob/master/cram/passing_experience2.txt)
 
 # 合格体験記 武田塾大森校
+*帯を開くと詳細が参照できます
 
 <details>
 <summary>1人目</summary>
