@@ -1,6 +1,6 @@
 # 大井町周辺 他塾リスト
 
-## ランキング　[ソース](https://www.jyukunavi.jp/rank/s1133228.html?gclid=EAIaIQobChMI0ZzTyfyY7wIVGHZgCh3l0gLmEAAYBCAAEgLOn_D_BwE)
+## ランキング[（ソース）](https://www.jyukunavi.jp/rank/s1133228.html?gclid=EAIaIQobChMI0ZzTyfyY7wIVGHZgCh3l0gLmEAAYBCAAEgLOn_D_BwE)
 *帯を開くと詳細が参照できます
 
 <details>
