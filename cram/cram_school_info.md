@@ -2,19 +2,6 @@
 
 ## ランキング
 
-1. 東京個別指導学院(ベネッセグループ)
-2. 創研学院
-3. 栄光の個別ビザビ
-4. 栄光ゼミナール
-5. 【武田塾】
-6. トーマス（TOMAS） *大森校
-7. E-style
-8. Liv.Teach
-9. 学研マナビア *大森校
-
-
-[ソース](https://www.jyukunavi.jp/rank/s1133228.html?gclid=EAIaIQobChMI0ZzTyfyY7wIVGHZgCh3l0gLmEAAYBCAAEgLOn_D_BwE)
-
 <details>
 <summary>1. 東京個別指導学院</summary>
 
@@ -113,3 +100,52 @@ JR大井町駅中央改札を出て右手の階段から1Fへ下りると、正�
 
 </details>
 
+<details>
+<summary>2. 創研学院</summary>
+
+
+</details>
+
+<details>
+<summary>3. 栄光の個別ビザビ</summary>
+
+
+</details>
+
+<details>
+<summary>4. 栄光ゼミナール</summary>
+
+
+</details>
+
+<details>
+<summary>5．【武田塾】</summary>
+
+
+</details>
+
+<details>
+<summary>6. トーマス（TOMAS） *大森校</summary>
+
+
+</details>
+
+<details>
+<summary>7. E-style</summary>
+
+
+</details>
+
+<details>
+<summary>8. Liv.Teach</summary>
+
+
+</details>
+
+<details>
+<summary>9. 学研マナビア *大森校</summary>
+
+
+</details>
+
+[ソース](https://www.jyukunavi.jp/rank/s1133228.html?gclid=EAIaIQobChMI0ZzTyfyY7wIVGHZgCh3l0gLmEAAYBCAAEgLOn_D_BwE)
