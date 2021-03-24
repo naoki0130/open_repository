@@ -272,7 +272,7 @@ JR大井町駅中央改札を出て右手の階段から1Fへ下りると、正�
 |高校3年生・浪人生|約4,455円（60分あたり）<br>約5,940円（80分あたり）|約2,916円（60分あたり）<br>約3,888円（80分あたり）|
 
 </details>
-
+***
 <details>
 <summary>2. 創研学院</summary>
 
@@ -591,48 +591,44 @@ JR大井町駅中央改札を出て右手の階段から1Fへ下りると、正�
 <p>※自由が丘校の料金となります。</p>
 <p>創研学院の個別指導コースでは、受講する学年や週のコマ数によって料金が異なっています。<strong>例えば小学6年生が週1コマ受講する場合は29,200円、週2コマ受講する場合は52,470円となります。</strong></p>
 <p>週のコマ数を増やせば増やすほど、料金も倍近くなっていきます。</p>
-
-
-
-
 </details>
-
+***
 <details>
 <summary>3. 栄光の個別ビザビ</summary>
 
 
 </details>
-
+***
 <details>
 <summary>4. 栄光ゼミナール</summary>
 
 
 </details>
-
+***
 <details>
 <summary>5．【武田塾】</summary>
 
 
 </details>
-
+***
 <details>
 <summary>6. トーマス（TOMAS） *大森校</summary>
 
 
 </details>
-
+***
 <details>
 <summary>7. E-style</summary>
 
 
 </details>
-
+***
 <details>
 <summary>8. Liv.Teach</summary>
 
 
 </details>
-
+***
 <details>
 <summary>9. 学研マナビア *大森校</summary>
 
