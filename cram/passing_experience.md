@@ -59,6 +59,8 @@
 
 </details>
 
+***
+
 <details>
 <summary>2人目</summary>
 
@@ -104,6 +106,8 @@ K.T
 ### 来年度以降の受験生にメッセージをお願いします！
   - 何か一つ, 自分の得意な教材を武器にして受験に取り組むと良いことがあります
 </details>
+
+***
 
 <details>
 <summary>3人目</summary>
