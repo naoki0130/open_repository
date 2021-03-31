@@ -600,6 +600,154 @@ JR大井町駅中央改札を出て右手の階段から1Fへ下りると、正�
 <details>
 <summary>3. 栄光の個別ビザビ</summary>
 
+# 栄光の個別ビザビ 大井町教室
+*必須項目は★マーク
+- [★所在地](#所在地-2)
+- [★大井町教室までのアクセス](#大井町教室までのアクセス-2)
+- [★電話番号](#電話番号-2)
+- [★特徴（アピールポイント）](#特徴アピールポイント-2)
+- [大井町教室の進学実績](#大井町教室の指導実績-1)
+- [★口コミ](#口コミソース-1)
+- [★料金詳細](#料金詳細-ソース-2)
+
+[全体的情報詳細のソース1](https://www.eikoh-vis-a-vis.com/kyoshitsu/w9402p.html)
+
+
+## 所在地
+[〒140-0014 東京都品川区大井1-10-3　3階](https://www.google.com/maps/place/%E3%80%92140-0014+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%A4%A7%E4%BA%95%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%90%E2%88%92%EF%BC%93/@35.6074319,139.7310176,17z/data=!3m1!4b1!4m5!3m4!1s0x60188a7d40432e4b:0xc9a03200e154825b!8m2!3d35.6074319!4d139.7332063)
+
+## 大井町教室までのアクセス
+- JR京浜東北線 大井町駅
+- 東急大井町線　東急大井町駅
+
+
+【JR大井町駅からのご案内】  
+JR大井町駅の中央口の改札を出て、右手側にあるアトレ手前の中央西方面階段を降ります。  
+右方向にある東急大井町線の駅に向かって進み、イトーヨーカドーの所を左に曲がります。  
+洋服のアオキが角にある信号を渡ると、1Fに東海東京証券の入っているビルが左側にあります。  
+その3Fが栄光の個別ビザビ大井町校です。  
+
+
+【東急大井町線大井町駅からのご案内】  
+改札を出て右方向に進み、イトーヨーカドーを左手に見ながら進みます。  
+洋服のアオキが角にある信号を渡ると、1Fに東海東京証券の入っているビルが左側にあります。  
+その3Fが栄光の個別ビザビ大井町校です。  
+
+## 電話番号
+|種類|番号|受付時間|
+--- | --- | ---
+|フリーダイアル|0120-515-853|月-土>10:00-21:00 / 日祝>10:00-18:00|
+|電話番号|03-3778-4231|(平日)>14:00-21:00 / (土)>10:00-21:00|
+
+## 特徴（アピールポイント）
+～校舎全体の特徴～
+[栄光の個別ビザビとは]  
+- 先生がぴったり寄り添う！
+   - 「栄光の個別ビザビ」は、栄光ゼミナールの個別指導専門塾です。学校の授業でわからないところがあっても、一人で復習や予習をするのは、なかなか難しいもの。ビザビなら、先生がわかるまでぴったり寄り添うから安心です。
+- 「塾」を楽しもう！
+   - ビザビでは、個別指導の良さをとことん活かし、「解き方を教える」だけにとどまらず、先生との会話を通して「わかる楽しさ」や「学ぶ楽しさ」を伝え、成績が上がって「自信がつく」ことでやる気をどんどん引きだしていきます。 
+
+[POINT]  
+- 一人ひとりにオーダーメイドの学習プラン
+   - 苦手克服・成績アップ・受験対策、目標達成に最適な学習プランを一人ひとりにご提案します。
+- 一人ひとりが安心できる学習環境
+   - 栄光の個別ビザビは、一人ひとりが快適に集中して学習できる環境づくりに努めています。（[感染拡大防止対策]栄光の個別ビザビでは、マスク着用、教室の換気、手洗いや消毒の徹底、検温など感染拡大防止対策を徹底しています。）
+      - 落ち着いた雰囲気の教室：教室は木目調の机でそろえてあり、落ち着いて勉強できます。
+      - 先生1人ｘ生徒2人の形態にぴったりな授業ブース
+      - 選べる双方向型のオンライン授業：ご家庭の環境やご意向によって、オンライン授業もえらべます。ZOOMを使った双方向型の個別指導です。
+      - いつでも使える自立学習室【i-cot（アイコット）】：一人ひとり独立したブースタイプ。わからないときはいつでも先生に質問出来ます。
+      - ウェブ学習システム【CATS@HOME(キャッツアットホーム)】：一人ひとり専用の個別復習プリントが出力でき、テスト前なども効率的に学習出来ます。
+      - 学習プランを保護者と共有：学習状況や、学習目標を達成するプロセスを保護者の方にも共有するので安心です。 
+- 一人ひとりに安全対策
+   - 栄光の個別ビザビは、通塾時や教室内で安全対策に取り組んでいます。
+      - 先生とのコミュニケーション：授業担当以外の生徒ともよくはなし、一人一人をきちんと見守るように努めています。
+      - 駅前立地：ビザビの多くの教室は駅前や商店街などにあります。夕方や夜間にも安心して通塾いただけます。
+      - ICカードによる入退室管理システム：教室についたらカードをかざして、到着を保護者のメールアドレスへお知らせします。
+      - 緊急連絡先の共有：入塾時に緊急連絡先を確認させていただき、万が一の事故に備えています。
+      - 危機管理体制：万が一の災害や事故から生徒たちを守るため、万全の態勢を整えています。
+      - オンライン授業も対応：社会情勢やご家庭のご意向によって、双方向型のオンライン個別指導もお選びいただけます。
+
+<div class="bd-tab-cont">
+				
+				
+								
+				
+									
+					<div class="top-pr">
+						<div class="bd-tab-cont-inner">
+							<!-- #265624対応 Z会の場合も表示する -->
+															<div class="bd-tab-top">
+									<div class="bd-tab-top-L">
+										<!-- PR画像 -->
+										<div class="pr-img">
+											<img src="/images/juku/48/juku_48_02.jpg?1608788937" alt="栄光の個別ビザビビザビ大井町校"/>
+										</div>
+										<!--/PR画像-->
+									</div>
+									<div class="bd-tab-top-R">
+										<!-- 指導方針＆カリキュラム -->
+										<div class="bd-information" id="brand-information">
+											<p class="bd-info-title">やる気を引き出す指導</p>
+											<div class="bd-information-l">
+												<div class="bd-information-l-l">
+													<img src="/images/juku/48/juku_48_04.jpg?1593403728" id="juku_guidance_pic" alt="栄光の個別ビザビの指導方針"/>
+												</div>
+												<div class="bd-information-l-r">
+													<p>一人で復習や予習をするのは、なかなか大変。ビザビなら、わかるまで先生がぴったり寄り添って指導します。オリコン1位の実績・ノウハウで、やる気をどんどん引き出し、成績向上につなげます。</p>
+												</div>
+											</div>
+								
+											<p class="bd-info-title">保護者の方へ</p>
+											<div class="bd-information-r">
+												<div class="bd-information-r-l">
+													<img src="/images/juku/48/juku_48_05.jpg?1595377184" id="juku_curriculum_pic" alt="栄光の個別ビザビのカリキュラム"/>
+												</div>
+												<div class="bd-information-r-r">
+													<p>学期ごとの定期面談で、学習状況や目標達成のプロセス、受験や進路の情報について共有いたします。不安な点はいつでもお電話や追加の面談でご相談頂けます。初めての塾、初めての受験でも、安心してお任せください。</p>
+												</div>
+											</div>
+										</div>
+										<!-- /指導方針＆カリキュラム -->
+									</div>
+								</div>
+														
+															<div class="bd-point">
+	<p class="bd-point-tit">POINT</p>
+	<ul class="bd-point-txt">
+			<li>「成績が下がった」「勉強の遅れが心配」どんな不安にも寄り添います</li>
+			<li>通塾でもオンラインでも受講可能。どんな時も学習をしっかりサポート</li>
+			<li>苦手克服、テスト対策、受験指導まで。最適な学習プランで目標達成へ</li>
+		</ul>
+</div>
+														
+							<!-- リッチテキスト -->
+															<div class="bd-rich-text">
+									<h3 class="bd-rich-text-tit">オリコン顧客満足度(R)調査 2年連続第1位！個別指導ならビザビ</h3>
+									<p class="bd-rich-maintext"><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">ビザビは栄光ゼミナールで蓄積されたノウハウを指導に生かし、一人ひとりにぴったり寄り添う「個別指導専門」の塾です。多くの生徒と保護者の皆様にご好評をいただき、</font><font color="#cc0000" style="color: rgb(51, 51, 51);"><font>「</font>2019年・2020年&nbsp;オリコン顧客満足度(R)調査 高校受験 個別指導塾 首都圏<font>」</font></font><font color="#333333" style="color: rgb(51, 51, 51);">で</font><font color="#cc0000" style="color: rgb(51, 51, 51);">2年連続で【第1位】</font><font color="#333333" style="color: rgb(51, 51, 51);">に選ばれました。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5"><b>■ビザビの授業の特長</b></font><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・お子さまに最適な学習プランのご提案</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">担当講師が、本人およびご家庭の希望、学習状況、課外活動の予定などをとことんヒアリングします。そのうえでプロの指導経験と教育情報をもとに、最も効果的な学習プランをご提案します。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・理解度に合わせた効率的な学習指導</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">先生1人に生徒2人までの指導形態で、きめ細やかな対応が可能。授業はお子さまの理解度を確認しながら進め、質問もその場で解消できるため効率的です。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・モチベーションを上げる総合サポート</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">学習状況に合わせて教材や演習問題を選択したり、一人ひとりの性格に合わせて声掛けをしたり、プロの技術でお子さまのやる気を引き出します。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5"><b>■授業以外でも学習を全面サポート</b></font><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・自分専用のプリントで苦手克服！Web学習システム</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">Web学習システム【CATS@HOME】では、自分が間違えた問題の類題だけを集めた、復習プリントが作成できます。定期テストの対策や苦手克服にご活用いただけます。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・いつでも使える完全無料の自習室</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">自習室は、授業がない日や授業前後の予習復習、テスト前にも利用できます。適宜利用を促し学習習慣の定着も目指します。※感染拡大防止のため、利用を一部制限させていただく場合がございます。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5"><b>■お子さまも保護者様も安心できる学習環境</b></font><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・自由に選べる時間割！授業の当日振替OK</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">授業の曜日や時間割は自由に選べるため、習い事や部活動との両立が可能です。当日の体調不良にも、振替授業で対応いたします。</font><br><br><font face="arial, tahoma, helvetica, sans-serif" size="2" color="#2474c5" style="color: rgb(51, 51, 51);">・通いやすくて安全な駅前立地</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">多くの教室は駅前や商店街にあり、夕方や夜間でも安心して通塾が可能です。通塾や帰宅の際は、塾の前で職員がお子さまを見守ります。</font><br><font color="#333333" style="color: rgb(51, 51, 51);"><b><font face="arial, tahoma, helvetica, sans-serif" size="2">★</font><font face="arial, tahoma, helvetica, sans-serif" size="2">教室での対面授業</font><font face="arial, tahoma, helvetica, sans-serif" size="2">も、</font><font face="arial, tahoma, helvetica, sans-serif" size="2">自宅で受講できる双方向型オンライン授業</font><font face="arial, tahoma, helvetica, sans-serif" size="2">も、</font><font face="arial, tahoma, helvetica, sans-serif" size="2">無料体験が可能</font><font face="arial, tahoma, helvetica, sans-serif" size="2">です。見学や学習相談だけでもお気軽に★</font></b><br></font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">【※高校生の皆様・保護者の皆様へ※】</font><br><font color="#333333" face="arial, tahoma, helvetica, sans-serif" size="2" style="color: rgb(51, 51, 51);">高校生の皆さまには、ビザビ教室の資料と合わせて、最寄りの「大学受験ナビオ」（高校生専門・個別指導有）の資料をご案内することがございます。</font></p>
+								</div>
+														<!-- /リッチテキスト -->
+						</div>
+					</div>
+					
+								<!-- /塾PR -->
+				
+				
+									<div class="infectionMeasures">
+						<h3 class="heading">感染症対策</h3>
+						
+												<p class="bd-rich-maintext bd-rich-maintext__online">●教室では、<br />
+・定期的な換気や空気清浄機の利用をしています。<br />
+・机、椅子、ドアノブ、電話など頻繁に消毒しています。<br />
+・生徒のみなさんへのマスク着用、事前検温、入室時の消毒をお願いしています。<br />
+・食事をする際は、向き合わず、会話を控えるようお願いしています。<br />
+<br />
+●教室職員は、<br />
+・マスク、フェイスシールドを着用いたします。<br />
+・出勤前の検温と健康チェックを行っています。<br />
+・手洗い、うがい、消毒を励行しています。</p>
+					</div>
+					
+					
 
 </details>
 
