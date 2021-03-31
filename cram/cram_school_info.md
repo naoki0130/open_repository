@@ -640,7 +640,7 @@ JR大井町駅の中央口の改札を出て、右手側にあるアトレ手前
 |電話番号|03-3778-4231|(平日)>14:00-21:00 / (土)>10:00-21:00|
 
 ## 特徴（アピールポイント）
-～校舎全体の特徴～
+***～校舎全体の特徴～***  
 [栄光の個別ビザビとは]  
 - 先生がぴったり寄り添う！
    - 「栄光の個別ビザビ」は、栄光ゼミナールの個別指導専門塾です。学校の授業でわからないところがあっても、一人で復習や予習をするのは、なかなか難しいもの。ビザビなら、先生がわかるまでぴったり寄り添うから安心です。
@@ -667,7 +667,7 @@ JR大井町駅の中央口の改札を出て、右手側にあるアトレ手前
       - 危機管理体制：万が一の災害や事故から生徒たちを守るため、万全の態勢を整えています。
       - オンライン授業も対応：社会情勢やご家庭のご意向によって、双方向型のオンライン個別指導もお選びいただけます。
 
-～大井町教室紹介～  
+***～大井町教室紹介～***  
 ***[やる気を引き出す指導]***  
 一人で復習や予習をするのは、なかなか大変。ビザビなら、わかるまで先生がぴったり寄り添って指導します。オリコン1位の実績・ノウハウで、やる気をどんどん引き出し、成績向上につなげます。  
 
@@ -711,7 +711,6 @@ JR大井町駅の中央口の改札を出て、右手側にあるアトレ手前
 - 【※高校生の皆様・保護者の皆様へ※】
    - 高校生の皆さまには、ビザビ教室の資料と合わせて、最寄りの「大学受験ナビオ」（高校生専門・個別指導有）の資料をご案内することがございます。
 
-～栄光の個別ビザビのコース～
 <h3 class="heading">栄光の個別ビザビのコース</h3>
 							<div class="bd-tab-cont-inner tab-info-inner">
 								<table border="0" cellspacing="0" cellpadding="0" class="top-shinfo-list tab-course">
@@ -743,6 +742,474 @@ JR大井町駅の中央口の改札を出て、右手側にあるアトレ手前
 																			</tbody>
 								</table>
 							</div>
+
+## 大井町教室の指導実績
+***[高校受験]***  
+※2019年度合格速報より、栄光ゼミナールと個別ビザビの合算  
+
+【国立高校・私立高校】  
+開成高校　5名慶應義塾女子高校　5名青山学院高校　34名中央大学付属高校　24名法政大学高校　13名早稲田実業高校　30名豊島岡女子高校　8名お茶の水女子高校　11名中央大学杉並高校　61名など
+
+【公立高校】  
+青山高校　14名大泉高校　2名武蔵高校　3名西高校　11名日比谷高校　2名国立高校　11名国分寺高校　9名新宿高校　18名立川高校　7名富山高校　16名八王子東高校　8名富士高校　9名など
+
+
+## 口コミ[(ソース)](https://www.jyukunavi.jp/hyouban/blist/k107880.html)
+### 料金
+- 一般的に平均レベルだが休みの特別コースがないといいい。これがお金がかかる
+- 値段はとても安くて良かったと思う。偏差値もあがりしたので安く感じます
+- 決して安いとは言えないですが、講師のレベル、環境面などを考えると納得がいきます
+
+### 講師
+- 子供のことがわかる目線で接しやすい。先生が好きで通っていました
+- 良い：相談しやすい。転塾の際にも、自習室にてフォローしてもらえる。 / 悪い：講師の対応にやや差がある
+- 理科の先生がとても優しくていろんな事を教えてくれたので偏差値もあがりました
+- 非常に熱心な先生で、先生一人一人のことを考えた指導をして頂きました
+
+### カリキュラム
+- 学校に沿った進捗で子供に負担なく通うことができました。成績が上がりませんでしたが。。。
+- 良い：研究されていると感じる。繰り返し、解き直しということでの定着をはかる。 / 悪い：子曰く、課題が多い
+- とても、勉強ばかりで夏期講習などはずっと通っていました。偏差値もあがりした
+- 過去問題をしっかりと分析した教材で非常に役立つ ちました。非常に感謝しています
+
+### 塾の外環境
+- 駅近くで便利。家からも歩いて通えたのがとても良かった。繁華街で少し心配はやむなし
+- アクセスはとても良くて、品川駅から近くてご飯を食べるところもたくさんありました
+- 駅からも近く安心して通わすことができました。学校の配慮もありました
+
+### 塾の内環境
+- 少しうるさい子供がいた。先生はあまり注意をしないので集中できない場合がある
+- 良い：自習室がよい。きれい。 / 悪い：トイレが一つで、それが。。。設備は簡単には修正難しいでしょうが
+- 生徒のことを第一に考えた環境が整えられており大変助かりました
+
+
+## 料金詳細 [(ソース)](https://jyukumiru.com/columns/articles/5841)
+### 個人に合ったコースでわかる楽しさと学ぶ楽しさを感じる
+栄光ゼミナールの個別ビザビは、生徒個人に合ったオーダーメイドのカリキュラムで、分かる楽しさと学ぶ楽しさを感じられる学習塾です。講師1人で3人以上の生徒を同時に指導する栄光ゼミナールと違い、講師1人に対して生徒2人までで授業が行われます。
+
+小学生から高校生まで学年別のコースが用意され、それぞれの学習目的に合った指導を受けられます。自習室をいつでも利用可能で、生徒一人ひとりの専用トレイで配布物のやり取りを確実にしてくれます。また、一人ひとり専用の個別復習プリントが出力できるウェブ学習システムなどもあり、効率的に学習できる環境が整っています。
+
+- 小学生のコース
+    -  小学生では、学校の授業内容に合わせて各教科の予習・復習を行い、授業内容の理解度向上と学校以外での学習習慣の定着を図れます。中学受験をしたい場合は受験教科の入試対策だけでなく、栄光ゼミナールが保有する豊富な受験情報を提供してくれたり、将来に向けて進路指導を行ってくれたりもします。
+- 中学生のコース
+   -  中学生は、部活などによって時間の使い方に個人差が大きく、塾に通える時間が千差万別です。栄光の個別ビザビでは、生徒一人ひとり異なるスケジュールに合わせた学習プランで、学習習慣を身に着けられます。学校別の定期テスト対策や志望高校の入試対策、一人ひとり異なる苦手教科・単元のつまずきを徐々に難易度を高めていくことで解決していきます。「分かった」を積み重ねて、定期テストの結果から自信をつけて、次の勉強へのやる気を引き出します。
+- 中高一貫生のコース
+   -  中高一貫校の生徒の場合は、公立学校と異なる授業の進捗に合わせて学校の授業内容の定着や定期テスト対策、内部進学対策を行えます。中学入学後から大学入学を意識して学習を進められます。
+- 高校生のコース
+   -  高校生の場合は、苦手分野の克服や成績向上、定期テスト対策、大学受験対策、内部進学対策を行えます。定期テスト前には、重要項目を中心に効率的に学習して高得点を目指せます。大学受験対策では、各教科の指導だけでなく、AO入試や推薦入試など、多様化する入試のために面接や小論文対策も行えます。
+
+### 料金表
+
+<div class="article-content text">
+	<p class="content_ln">栄光の個別ビザビの通常授業の料金と夏期講習費用をご紹介します。個別指導による生徒一人ひとりに最適なカリキュラムで、効率的に学習を進められる栄光の個別ビザビへの入塾を検討している方は、確認しておきましょう。<br><br>これからご紹介する金額は、年度によって変動する可能性があるため、「約」を付けて記載しています。</p>
+</div>
+
+<div class="article-content header ">
+			<h3 class="section" id="outline15">
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">栄光の個別ビザビの料金内訳は授業料・維持費等</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+				<div class="article-content text">
+	<p class="content_ln">栄光の個別ビザビに通うと、授業料と維持費などがかかります。入塾金はかかりません。授業料は、学年や指導内容に応じて異なり、維持費は以下の表の通りです。</p>
+</div>
+
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>維持費（月額）</strong></td>
+   </tr>
+   <tr>
+     <td>小学1〜3年生</td>
+     <td>約1,080円</td>
+   </tr>
+   <tr>
+     <td>小学4〜6年生・中学生</td>
+     <td>約3,240円</td>
+   </tr>
+   <tr>
+     <td>高校生</td>
+     <td>約3,240円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+			<h3 class="section" id="outline18">
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">小学生の料金詳細</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+<div class="article-content text">
+	<p class="content_ln">まずは、小学生の料金を詳しくご紹介します。小学生では、授業内容の定着や学習習慣を身に着けること、中学受験に向けた勉強など、生徒一人ひとりで異なる学習目的に応じて最適な指導を受けられます。<br><br>通常授業料に加えて、季節講習費の一例として2019年度の夏期講習費用もご紹介します。入塾を検討している方は確認しておきましょう。</p>
+</div>
+
+<div class="article-content header ">
+			<h4 class="section content_ln header_ln" id="outline20">
+	    		通常授業の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">小学生の通常授業料は以下の表の通りです。年額料金は月額料金から、60分あたりの料金は1ヶ月を4週間として算出しました。1ヶ月の通塾回数によって、価格は変わります。参考として確認してください。</p>
+</div>
+
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>年額</strong></td>
+     <td><strong>月額</strong></td>
+     <td><strong>60分あたり</strong></td>
+   </tr>
+   <tr>
+     <td>1〜4年生</td>
+     <td>1対1：約349,920円<br>1対2：約233,280円</td>
+     <td>1対1：約29,160円<br>1対2：約19,440円</td>
+     <td>1対1：約5,467円<br>1対2：約3,645円</td>
+   </tr>
+   <tr>
+     <td>5年生</td>
+     <td>1対1：約362,880円<br>1対2：約246,240円</td>
+     <td>1対1：約30,240円<br>1対2：約20,520円</td>
+     <td>1対1：約5,670円<br>1対2：約3,847円</td>
+   </tr>
+   <tr>
+     <td>6年生</td>
+     <td>1対1：約362,880円<br>1対2：約259,200円</td>
+     <td>1対1：約30,240円<br>1対2：約21,600円</td>
+     <td>1対1：約5,670円<br>1対2：約4,050円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content text">
+	<p class="content_ln">1回の授業時間は80分です。小学4年生以降になると、中学受験対策を行う「個別中学入試準備」コースと、学校の授業内容の定着を図る「個別学校準拠」コースに分かれます。小学5年生以降では、中学受験対策を行うコースが、志望校の種別ごとに「個別私国立中入試対策」コースと「個別公立中高一貫校受検」コースに分かれます。<br><br>授業料はどちらのコースを選択しても同じで、学年と講師一人に対する生徒の人数によって変動する仕組みです。</p>
+</div>
+
+<div class="article-content header ">
+			<h4 class="section content_ln header_ln" id="outline24">	    		
+	    		特別講習の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">栄光の個別ビザビでは、夏期や冬期などの季節限定で毎年特別講習が開催されます。以下の表は、2019年度の夏期講習で4回授業を1講座として、1講座受講した際の費用です。特別講習費用は、受講講座数と講師一人に対する生徒の人数、学年によって価格が異なる仕組みです。<br><br>年度によって金額は異なるため、あくまで参考程度に確認しておきましょう。</p>
+</div>
+
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>1対1指導</strong></td>
+     <td><strong>1対2指導</strong></td>
+   </tr>
+   <tr>
+     <td>1〜4年生</td>
+     <td>約29,160円</td>
+     <td>約19,440円</td>
+   </tr>
+   <tr>
+     <td>5年生</td>
+     <td>約30,240円</td>
+     <td>約20,520円</td>
+   </tr>
+   <tr>
+     <td>6年生</td>
+     <td>約30,240円</td>
+     <td>約21,600円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+			<h3 class="section" id="outline27">	    		
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">中学生の料金詳細</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+<div class="article-content text">
+	<p class="content_ln">次に、中学生の料金を詳しく解説します。中学生は、学校の授業内容の定着や定期テスト対策、高校受験に向けて効率的に学習を進められます。栄光の個別ビザビで学校以外の勉強をするかどうか迷っている方は、入塾を判断する前に確認しておきましょう。</p>
+</div>
+
+<div class="article-content header ">
+			<h4 class="section content_ln header_ln" id="outline29">	    		
+	    		通常授業の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">月4回受講した時の中学生の授業料をご紹介します。中学生の授業料は1・2年生と3年生で分かれ、講師一人に対する生徒の人数に応じても費用が変わります。年額料金は月額料金から、60分あたりの費用は1ヶ月を4週間として計算しました。1回の授業時間は80分です。</p>
+</div>
+
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>年額</strong></td>
+     <td><strong>月額</strong></td>
+     <td><strong>60分あたり</strong></td>
+   </tr>
+   <tr>
+     <td>1・2年生</td>
+     <td>1対1：約362,880円<br>1対2：約259,200円</td>
+     <td>1対1：約30,240円<br>1対2：約21,600円</td>
+     <td>1対1：約5,670円<br>1対2：約4,050円</td>
+   </tr>
+   <tr>
+     <td>3年生</td>
+     <td>1対1：約375,840円<br>1対2：約272,160円</td>
+     <td>1対1：約31,320円<br>1対2：約22,680円</td>
+     <td>1対1：約5,872円<br>1対2：約4,252円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+			<h4 class="section content_ln header_ln" id="outline32">	    		
+	    		特別講習の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">中学生の場合の特別講習費用をご紹介します。栄光の個別ビザビでは、4回授業を1講座として、受講講座数と講師一人に対する生徒の人数、学年に応じて料金が異なります。<br><br>以下の表は、2019年度の夏期講習を1講座受講した時の費用です。金額は、年度や季節によって変わる可能性がありますので、参考程度に確認してください。</p>
+</div>
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>1対1指導</strong></td>
+     <td><strong>1対2指導</strong></td>
+   </tr>
+   <tr>
+     <td>1・2年生</td>
+     <td>約30,240円</td>
+     <td>約21,600円</td>
+   </tr>
+   <tr>
+     <td>3年生</td>
+     <td>約31,320円</td>
+     <td>約22,680円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+			<h3 class="section" id="outline35">	    		
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">中高一貫生の料金詳細</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+<div class="article-content text">
+	<p class="content_ln">中高一貫校に通学している生徒の授業料と、特別講習費用をご紹介します。中高一貫校の場合、公立中学校と授業の進捗が異なり、高校入試が不要です。内部進学対策などを行ってくれる栄光の個別ビザビの授業料を確認して、入塾を判断する際に役立ててください。</p>
+</div>
+<div class="article-content header ">
+			<h4 class="section content_ln header_ln" id="outline37">	    		
+	    		通常授業の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">中高一貫校に通学している生徒の授業料は、以下の表の通りです。年額授業料は月額料金から、60分あたりの授業料は1ヶ月を4週と仮定して、月額料金から算出しました。<br><br>実際の授業時間は80分で、表で記載している費用は月4回通塾時の金額です。年度によって価格は変わる可能性があるため、参考程度に確認しておきましょう。</p>
+</div>
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>年額</strong></td>
+     <td><strong>月額</strong></td>
+     <td><strong>60分あたり</strong></td>
+   </tr>
+   <tr>
+     <td>1・2年生</td>
+     <td>1対1：約362,880円<br>1対2：約259,200円</td>
+     <td>1対1：約30,240円<br>1対2：約21,600円</td>
+     <td>1対1：約5,670円<br>1対2：約4,050円</td>
+   </tr>
+   <tr>
+     <td>3年生</td>
+     <td>1対1：約375,840円<br>1対2：約272,160円</td>
+     <td>1対1：約31,320円<br>1対2：約22,680円</td>
+     <td>1対1：約5,872円<br>1対2：約4,252円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+			<h4 class="section content_ln header_ln" id="outline40">	    		
+	    		特別講習の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">次に、中高一貫校に通学する生徒の、特別講習費用をご紹介します。栄光の個別ビザビでは、季節限定の講習が開催されます。以下の表は、2019年度の夏期講習を1講座受講した時の料金です。夏期講習では、4回の授業を1講座として、受講講座数に応じて料金が異なります。</p>
+</div>
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>1対1指導</strong></td>
+     <td><strong>1対2指導</strong></td>
+   </tr>
+   <tr>
+     <td>1・2年生</td>
+     <td>約30,240円</td>
+     <td>約21,600円</td>
+   </tr>
+   <tr>
+     <td>3年生</td>
+     <td>約31,320円</td>
+     <td>約22,680円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content text">
+	<p class="content_ln">受講講座数だけでなく、講師一人に対する生徒の人数、学年に応じても価格は異なります。また、年度や季節によって金額は変動する可能性があります。</p>
+</div>
+<div class="article-content header ">
+			<h3 class="section" id="outline44">	    		
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">高校生の料金詳細</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+<div class="article-content text">
+	<p class="content_ln">高校生の料金を詳しく解説します。高校生は、定期テスト対策や志望大学合格に向けて学習を進めることができます。高校生で栄光の個別ビザビへの入塾を検討している方は、料金を確認して入塾を判断する際の参考にしてみてください。</p>
+</div>
+<div class="article-content header ">
+	<h4 class="section content_ln header_ln" id="outline46">    		
+	    		通常授業の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">以下の表は、高校生が月4回通塾した際の通常授業料です。高校生の場合、内部進学対策・大学入試対策・難関大学入試対策の3種類のコースから、学習目的に最適なコースを選択して受講する形です。<br><br>授業料は学年によって異なります。どのコースを選択しても学年が同じであれば同額です。<br><br>年額料金は月額料金から、60分あたりの費用は1ヶ月を4週間とした際の月額料金から算出しました。なお、年度によって金額は変動する可能性があります。参考程度に確認してください。</p>
+</div>
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>年額</strong></td>
+     <td><strong>月額</strong></td>
+     <td><strong>60分あたり</strong></td>
+   </tr>
+   <tr>
+     <td>1年生</td>
+     <td>1対1：約375,840円<br>1対2：約259,200円</td>
+     <td>1対1：約31,320円<br>1対2：約21,600円</td>
+     <td>1対1：約5,872円<br>1対2：約4,050円</td>
+   </tr>
+   <tr>
+     <td>2年生</td>
+     <td>1対1：約375,840円<br>1対2：約272,160円</td>
+     <td>1対1：約31,320円<br>1対2：約22,680円</td>
+     <td>1対1：約5,872円<br>1対2：約4,252円</td>
+   </tr>
+   <tr>
+     <td>3年生</td>
+     <td>1対1：約375,840円<br>1対2：約285,120円</td>
+     <td>1対1：約31,320円<br>1対2：約23,760円</td>
+     <td>1対1：約5,872円<br>1対2：約4,455円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+	<h4 class="section content_ln header_ln" id="outline49">
+	    		特別講習の料金詳細
+	    		<span class="f-right"></span>
+			</h4>
+</div>
+<div class="article-content text">
+	<p class="content_ln">高校生の特別講習費用をご紹介します。栄光の個別ビザビでは、学校の長期休みのタイミングで特別講習が開催されます。以下の表は、一例として2019年度の夏期講習費用をご紹介します。<br><br>夏期講習では、80分授業4回を1講座として、受講講座数に応じて料金が異なります。年度や季節によって金額は変わる可能性があるため、参考程度に確認しておきましょう。</p>
+</div>
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>学年</strong></td>
+     <td><strong>1対1指導</strong></td>
+     <td><strong>1対2指導</strong></td>
+   </tr>
+   <tr>
+     <td>1年生</td>
+     <td>約31,320円</td>
+     <td>約21,600円</td>
+   </tr>
+   <tr>
+     <td>2年生</td>
+     <td>約31,320円</td>
+     <td>約22,680円</td>
+   </tr>
+   <tr>
+     <td>3年生</td>
+     <td>約31,320円</td>
+     <td>約23,760円</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content header ">
+			<h3 class="section" id="outline52">	    		
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">他の個別指導塾と比べて高い？</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+<div class="article-content text">
+	<p class="content_ln">栄光の個別ビザビの料金を他の個別指導塾の料金と比較してみましょう。以下の表は、中学3年生で月4回通塾した際の60分あたりの授業料です。授業時間は塾によって異なるため、実際の授業時間は60分あたりの授業料の後ろに括弧で記載しています。<br><br>授業料は生徒一人ひとりのカリキュラムによって細かく異なり、年度によっても変わります。塾選びの際には、参考程度に確認しましょう。</p>
+</div>
+<div class="article-content code">
+	<table>
+ <tbody>
+   <tr>
+     <td><strong>塾名</strong></td>
+     <td><strong>60分あたり</strong></td>
+   </tr>
+   <tr>
+     <td>栄光の個別ビザビ</td>
+     <td>約4,252円（80分）</td>
+   </tr>
+   <tr>
+     <td>個別指導キャンパス</td>
+     <td>約1,856円（80分）</td>
+   </tr>
+   <tr>
+     <td>東京個別指導学院</td>
+     <td>約4,657円（80分）</td>
+   </tr>
+   <tr>
+     <td>明光義塾</td>
+     <td>約2,520円（90分）</td>
+   </tr>
+   <tr>
+     <td>城南コベッツ</td>
+     <td>約4,576円（60分）</td>
+   </tr>
+ </tbody>
+</table>
+</div>
+<div class="article-content text">
+	<p class="content_ln">栄光の個別ビザビの授業料は、個別指導キャンパスのような低価格で有名な他の個別指導塾と比べると、高めの価格設定です。ただし、栄光の個別ビザビは生徒個人に合わせた個別指導を展開しています。指導内容もよく確認したうえで、入塾を検討できると良いですね。</p>
+</div>
+<div class="article-content header ">
+			<h3 class="section" id="outline56">	    		
+				<span class="site-color">■</span><span class="sm_header content_ln header_ln">少しでも安く利用する方法</span>
+				<span class="sm_header f-right content_ln header_ln"></span>
+			</h3>
+</div>
+<div class="article-content text">
+	<p class="content_ln">栄光の個別ビザビをできるだけ安く利用するには、割引制度を活用しましょう。栄光の個別ビザビでは、兄弟姉妹で個別ビザビの塾生であった場合、兄弟姉妹全員の月謝・講習・ゼミの受講料が20％割り引かれます。<br><br>また、2講座以上受講した場合、2講座目から月謝より1講座につき、約4,000〜11,000円が割り引かれます。受講数や学年によって割引額は異なるため、詳しい情報を知りたい場合は、直接校舎に連絡してみましょう。</p>
+</div>
+
 
 </details>
 
