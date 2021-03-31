@@ -1228,7 +1228,7 @@ JR大井町駅の中央口の改札を出て、右手側にあるアトレ手前
 - [★口コミ](#口コミソース-2)
 - [★料金詳細](#料金詳細-ソース-3)
 
-[全体的情報詳細のソース1]()
+[全体的情報詳細のソース1](https://www.eikoh-seminar.com/kyoshitsu/w9402/)
 
 ## 所在地
 [〒140-0014 東京都品川区大井1-10-3 3F](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00ZwNzkB_4o_ABuJOynjNwJb2L9Bw:1617177473809&q=%E3%80%92140-0014+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%93%81%E5%B7%9D%E5%8C%BA%E5%A4%A7%E4%BA%951-10-3+3F&rflfq=1&num=10&ved=2ahUKEwiPn_XGh9rvAhXUZt4KHV-1DoUQtgN6BAgGEAc)
